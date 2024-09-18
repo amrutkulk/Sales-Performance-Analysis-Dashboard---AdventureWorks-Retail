@@ -1,4 +1,6 @@
-[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDE5NDEyMWUtY2NiMi00MzRiLTljZmYtYmZlNWQzOTBkMDgzIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
+[![Open In Power Bi]([https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDE5NDEyMWUtY2NiMi00MzRiLTljZmYtYmZlNWQzOTBkMDgzIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiN2M4ZjM3YWEtN2M2MS00YmFjLTljYTItM2U3YWI5ZTNjY2Q5IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9))
+
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiN2M4ZjM3YWEtN2M2MS00YmFjLTljYTItM2U3YWI5ZTNjY2Q5IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9
 
 # Sales/Customer/Product Analysis
 In this ‘Data Analysis’ project, we’ll analyze `AdventureWorks`, an online retailer's raw sales data, and draw meaningful insights.
